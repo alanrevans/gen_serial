@@ -1,0 +1,12 @@
+{application, gen_serial,
+ [{description, "Generic serial driver for Erlang on UNIX and Windows"},
+  {vsn, "0.2"},
+  {applications,
+   [kernel,
+    stdlib
+   ]},
+  {env,[]},
+  {modules, []},
+  {maintainers, []},
+  {links, []}
+ ]}.
